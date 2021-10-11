@@ -16,5 +16,6 @@ Gender  |Gender of the passenger
 Satisfaction |If the passenger is satisfied or not
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQraNKbNKkIfP3m9z0lTJm68Jj2EqdRcWBAeQ&usqp=CAU)
+
  You can check a notebook by clicking [here](https://github.com/sharankumar6/Customer-Flight-satisfaction-prediction-sharan/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
 :star: :fire: :star: :heart:
